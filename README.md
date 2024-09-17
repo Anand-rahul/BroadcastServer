@@ -3,7 +3,7 @@
 ## Overview
  Project Link - https://roadmap.sh/projects/broadcast-server
 
-This project implements a WebSocket server using Spring Boot and Spring Shell. The server supports broadcasting messages to all connected clients and includes a Spring Shell CLI interface to manage and monitor the server.
+This project implements a WebSocket server using Spring Boot and Spring Shell. The server supports broadcasting messages to all connected clients and includes a Spring Shell CLI interface to monitor the server.
 
 ### Features
 - **WebSocket Server**: Handles multiple client connections and broadcasts messages to all connected clients.
